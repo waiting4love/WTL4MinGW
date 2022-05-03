@@ -1,0 +1,6 @@
+
+/*
+@category STL-Extension(stdext) Library
+@*/
+
+#include "stdext/kmp/Finder.h"
